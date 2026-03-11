@@ -1,3 +1,8 @@
+# Taller 1
+## Lucas Higuita Bedoya
+
+---
+
 # 🧮 simple-cicd-typescript
 
 Este proyecto es una introducción práctica al desarrollo con **TypeScript**, pruebas automatizadas con **Jest**, análisis estático usando **ESLint**, y un flujo de **CI/CD** configurado con **GitHub Actions**.
@@ -44,6 +49,7 @@ jest.config.cjs        # Configuración de Jest (framework de pruebas)
 
 package.json           # Scripts y dependencias del proyecto
 package-lock.json      # Bloqueo de versiones de dependencias
+
 
 sum.ts                 # Implementación de la operación de suma (TypeScript)
 sum.test.ts            # Prueba unitaria para la operación de suma
